@@ -1,3 +1,2 @@
-
 print("Hola, Git")
-print("Este es mi segunda línea")
+print("Esta es mi segunda línea")
